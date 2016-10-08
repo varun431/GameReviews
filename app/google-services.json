@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1075968532717",
+    "firebase_url": "https://gossip-girl-b76a3.firebaseio.com",
+    "project_id": "gossip-girl-b76a3",
+    "storage_bucket": "gossip-girl-b76a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075968532717:android:bb6416d85e5130ce",
+        "android_client_info": {
+          "package_name": "com.gossipgirl.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075968532717-iuu71tp9im9bdlau2p79mcmd3393kdsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7gPKkcrMXiOqczym-cVRxV-hfLM3VB0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

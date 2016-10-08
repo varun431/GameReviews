@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gossip Girl</string>
+    <string name="email_address">Email Address</string>
+    <string name="log_in">Log In</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="login_error_message">Please make sure you enter an email address and password!</string>
+    <string name="login_error_title">Error!</string>
+    <string name="signup_error_message">Please make sure you enter an email address, name and password!</string>
+    <string name="signup_error_title">Error!</string>
+    <string name="signup_success">Account successfully created! You can now Login.</string>
+    <string name="serena_van_der_woodsen">Serena van der Woodsen</string>
+    <string name="blair_waldorf">Blair Waldorf</string>
+    <string name="dan_humphrey">Dan Humphrey</string>
+    <string name="nate_archibald">Nate Archibald</string>
+    <string name="chuck_bass">Chuck Bass</string>
+    <string name="vanessa_abrams">Vanessa Abrams</string>
+    <string name="jenny_humphrey">Jenny Humphrey</string>
+    <string name="eric_van_der_woodsen">Eric van der Woodsen</string>
+    <string name="lily_van_der_woodsen">Lily van der Woodsen</string>
+    <string name="rufus_humphrey">Rufus Humphrey</string>
+    <string name="ivy_dickens">Ivy Dickens</string>
+    <string name="label">label</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="logout">Logout</string>
+</resources>
