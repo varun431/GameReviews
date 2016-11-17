@@ -10,8 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
-            android:parentActivityName=".MainActivity"
+            android:name=".activity.MainActivity"
+            android:parentActivityName=".activity.MainActivity"
             android:launchMode="singleTask"
             android:taskAffinity=""
             android:excludeFromRecents="true">
@@ -23,8 +23,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".Register"></activity>
-        <activity android:name=".Login"></activity>
+        <activity android:name=".activity.Register"></activity>
+        <activity android:name=".activity.Login"></activity>
 
         <!--<service-->
             <!--android:name=".MyFirebaseMessagingService">-->
