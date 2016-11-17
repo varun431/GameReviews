@@ -24,6 +24,7 @@
         </activity>
 
         <activity android:name=".activity.Register"></activity>
+        <activity android:name=".activity.GameDetailActivity"></activity>
         <activity android:name=".activity.Login"></activity>
 
         <!--<service-->

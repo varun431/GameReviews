@@ -1,4 +1,4 @@
-package com.example.hash.gossipgirl;
+package com.example.hash.GameReviews;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

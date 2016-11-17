@@ -18,7 +18,7 @@ import com.google.android.gms.tasks.Task;
 public class Login extends AppCompatActivity implements View.OnClickListener {
 
     EditText email, password;
-    Button login, createaccount;
+    Button login, createaccount, welcome;
     private FirebaseAuth mFirebaseAuth;
 
     @Override
@@ -28,6 +28,8 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
 
         // Initialize FirebaseAuth
         mFirebaseAuth = FirebaseAuth.getInstance();
+
+        welcome = (Button) findViewById(R.id.welcome);
 
         login = (Button) findViewById(R.id.login);
         if (login != null) {
@@ -96,6 +98,9 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
                                 }
                             });
                 }
+            case R.id.welcome:
+                Intent in = new Intent(this, MainActivity.class);
+                startActivity(in);
         }
     }
 }

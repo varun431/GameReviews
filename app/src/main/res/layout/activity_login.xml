@@ -78,4 +78,17 @@
         android:layout_alignLeft="@+id/createaccount"
         android:layout_alignStart="@+id/createaccount" />
 
+    <Button
+        android:text="Go to Main Page"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dp"
+        android:id="@+id/welcome"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:textAllCaps="false"
+        android:layout_below="@+id/createaccount"
+        android:layout_alignRight="@+id/password"
+        android:layout_alignEnd="@+id/password" />
+
+
 </RelativeLayout>

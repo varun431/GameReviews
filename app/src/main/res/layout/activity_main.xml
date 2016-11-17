@@ -12,12 +12,8 @@
     <Button
         android:id="@+id/btLogout"
         android:text="@string/logout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
-    <Button
-        android:id="@+id/btSubscribe"
-        android:text="@string/subscribe"
+        android:layout_marginTop="10dp"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
