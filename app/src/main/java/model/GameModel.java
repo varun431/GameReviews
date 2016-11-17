@@ -12,7 +12,7 @@ public class GameModel {
     String release;
     String desc;
 
-    public GameModel(String rating, String name, String release, String desc) {
+    public GameModel(String name, String rating, String release, String desc) {
         this.rating = rating;
         this.name = name;
         this.release = release;
